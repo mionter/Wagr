@@ -107,7 +107,7 @@ export default function HomePage() {
 
                         {/* Plain English explanation */}
                         <p className="text-base sm:text-lg text-muted max-w-2xl mx-auto leading-relaxed">
-                            Turn any DreamDEX event contract into a shareable 1-v-1 duel. When the price window closes, payout triggers automatically in the background - the winner receives their funds directly with zero claim buttons.
+                            Challenge anyone to a head-to-head prediction duel with a single shareable link. Both sides lock their stake on-chain, and the winner gets paid automatically the second the round resolves. Zero claim buttons, zero return visits, and zero extra gas.
                         </p>
 
                         {/* Action buttons */}
