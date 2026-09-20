@@ -4,9 +4,9 @@ Wagr is a peer-to-peer prediction protocol that turns live market events into in
 
 Every existing prediction market makes winners return to the site, sign a claim transaction, and pay gas to retrieve their funds. Wagr settles directly inside the resolution block using Somnia native reactivity, pushing payouts straight to the winner's wallet with zero manual claim steps.
 
+- **Live dApp**: [https://wagr-duel.vercel.app](https://wagr-duel.vercel.app)
 - **Telegram Bot**: [https://t.me/WagrDuelBot/app](https://t.me/WagrDuelBot/app)
 - **Proof Transaction (Shannon Block #477711153)**: [`0xb8290da3b70add14e567b43fb75bcfd56951e69110a0e5cd631fae83f8858f33`](https://shannon-explorer.somnia.network/tx/0xb8290da3b70add14e567b43fb75bcfd56951e69110a0e5cd631fae83f8858f33)
-- **Developer Feedback**: [FEEDBACK.md](./FEEDBACK.md)
 
 ---
 
